@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lizziechoi-dev/lizziechoi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lizzy, a Backend Developer.
 
-Here are some ideas to get you started:
+Java & Spring 기반의 백엔드 개발을 하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Career
+
+- **Watt** `2022.10 ~ 2024.10`
+  - Backend Developer
+- **Hansalim** `2019.10 ~ 2022.04`
+  - Full-stack Developer
+
+### 🎓 Education
+
+- Computer Engineering, Bachelor's Degree
