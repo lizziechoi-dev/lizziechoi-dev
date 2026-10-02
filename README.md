@@ -1,18 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lizzie 👋
 
-I'm Lizzie, a Backend Developer.
+Java & Spring 기반의 Backend Developer입니다.
 
-Java & Spring 기반의 백엔드 개발을 하고 있습니다.
+## 💼 Experience
 
-### 💼 Career
+### Watt
+Backend Developer `2022.10 – 2024.10`
 
-- **Watt** `2022.10 ~ 2024.10`
-  - Backend Developer
-- **Hansalim** `2019.10 ~ 2022.04`
-  - Full-stack Developer
+- Spring 기반 관리자 플랫폼 Backend 설계 및 개발
+- REST API 설계
+- 대여/반납 동시성 처리
+- 공통 Response 및 예외 처리 구조 개선
 
-### 🎓 Education
+### Hansalim
+Full-stack Developer `2019.10 – 2022.04`
 
-- Computer Engineering, Bachelor's Degree
+- 차세대 결제 시스템 PG 전환
+- 조합원 ERP 개발 및 운영
+- Oracle 기반 데이터 처리
 
-![Lizzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizziechoi-dev&show_icons=true&theme=radical)
+## 🛠 Tech Stack
+
+Java · Spring Boot · Spring Framework · MyBatis  
+Oracle · MS SQL Server · Git · Jenkins
+
+## 🚀 Projects
+
+개인 프로젝트 / 학습 프로젝트
+
+### 🔗 Links
+
+[Resume](https://lizziechoi-dev.github.io/resume/) · [Portfolio](https://lizziechoi-dev.github.io/)
