@@ -27,8 +27,8 @@ Oracle · MS SQL Server · Git · Jenkins
 ### 🚀 Projects
 
 - [Daangn Market Project](https://github.com/lizziechoi-dev/daangn-market-project) - 지역형 중고거래 백엔드 프로젝트
-- [LLM Prompt Benchmark]((https://github.com/lizziechoi-dev/llm-prompt-benchmark)) - LLM Prompt Benchmark
-- [Chat Express]((https://github.com/lizziechoi-dev/chat-express) - Node.js / Socket.IO 실시간 채팅
+- [LLM Prompt Benchmark](https://github.com/lizziechoi-dev/llm-prompt-benchmark) - LLM Prompt Benchmark
+- [Chat Express](https://github.com/lizziechoi-dev/chat-express) - Node.js / Socket.IO 실시간 채팅
 
 ### 🔗 Links
 
