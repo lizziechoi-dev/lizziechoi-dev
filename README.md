@@ -14,3 +14,5 @@ Java & Spring 기반의 백엔드 개발을 하고 있습니다.
 ### 🎓 Education
 
 - Computer Engineering, Bachelor's Degree
+
+![Lizzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizziechoi-dev&show_icons=true&theme=radical)
