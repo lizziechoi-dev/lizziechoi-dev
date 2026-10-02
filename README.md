@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lizzy, a Backend Developer.
+I'm Lizzie, a Backend Developer.
 
 Java & Spring 기반의 백엔드 개발을 하고 있습니다.
 
