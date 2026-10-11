@@ -21,15 +21,15 @@ Full-stack Developer `2019.10 – 2022.04`
 
 ## 🛠 Tech Stack
 
-Java · Spring Boot · Spring Framework · MyBatis  
+Java · Spring Framework · MyBatis  
 Oracle · MS SQL Server · Git · Jenkins
 
-### 🚀 Projects
+## 🚀 Projects
 
 - [Daangn Market Project](https://github.com/lizziechoi-dev/daangn-market-project) - 지역형 중고거래 프로젝트
-- [LLM Prompt Benchmark](https://github.com/lizziechoi-dev/llm-prompt-benchmark) - LLM Prompt Benchmark
+- [LLM Prompt Benchmark](https://github.com/lizziechoi-dev/llm-prompt-benchmark) - Gemini API 기반 프롬프트 비교 실험 및 응답시간·토큰 사용량 분석
 - [Chat Express](https://github.com/lizziechoi-dev/chat-express) - Node.js / Socket.IO 실시간 채팅
 
-### 🔗 Links
+## 🔗 Links
 
 [Resume](https://lizziechoi-dev.github.io/resume/) · [Portfolio](https://lizziechoi-dev.github.io/)
